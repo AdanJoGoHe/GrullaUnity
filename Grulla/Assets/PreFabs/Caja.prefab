@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 61022532251352912}
   - component: {fileID: 61018888199257140}
   m_Layer: 9
-  m_Name: muro
+  m_Name: Caja
   m_TagString: muro
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
